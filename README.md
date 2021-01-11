@@ -49,7 +49,7 @@ Debug Main game.py
 #### 9) At the end of all games, the ingredients you have acquired tell you whether or not you have successfully cooked
 
 ##### 9-1) Success
-    ![image](https://user-images.githubusercontent.com/65646971/104193234-37d2f600-5463-11eb-87ff-f3f6141e23a6.png)
+![image](https://user-images.githubusercontent.com/65646971/104193234-37d2f600-5463-11eb-87ff-f3f6141e23a6.png)
 
 ##### 9-2) Fail
-    ![image](https://user-images.githubusercontent.com/65646971/104192123-bdee3d00-5461-11eb-89f6-880d327b33dc.png)
+![image](https://user-images.githubusercontent.com/65646971/104192123-bdee3d00-5461-11eb-89f6-880d327b33dc.png)
