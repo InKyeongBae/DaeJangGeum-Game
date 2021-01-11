@@ -28,7 +28,7 @@ Debug Main game.py
 
 
 4) Second Game : __digit_baseball.py__
-![image](https://user-images.githubusercontent.com/65646971/104191706-33a5d900-5461-11eb-8cb1-116ac52419ad.png)
+  ![image](https://user-images.githubusercontent.com/65646971/104191706-33a5d900-5461-11eb-8cb1-116ac52419ad.png)
 
 
 5) Third Game : __square2048.py__
@@ -36,7 +36,7 @@ Debug Main game.py
 
 
 6) Fourth Game : __typinggame.py__
-![image](https://user-images.githubusercontent.com/65646971/104191924-7c5d9200-5461-11eb-967f-1aee7cd5580f.png)
+  ![image](https://user-images.githubusercontent.com/65646971/104191924-7c5d9200-5461-11eb-967f-1aee7cd5580f.png)
 
 
 7) Fifth Game : __enneagram.py__
@@ -49,7 +49,7 @@ Debug Main game.py
 9) At the end of all games, the ingredients you have acquired tell you whether or not you have successfully cooked
 
 9-1) Success
-![image](https://user-images.githubusercontent.com/65646971/104193234-37d2f600-5463-11eb-87ff-f3f6141e23a6.png)
+    ![image](https://user-images.githubusercontent.com/65646971/104193234-37d2f600-5463-11eb-87ff-f3f6141e23a6.png)
 
 9-2) Fail
-![image](https://user-images.githubusercontent.com/65646971/104192123-bdee3d00-5461-11eb-89f6-880d327b33dc.png)
+    ![image](https://user-images.githubusercontent.com/65646971/104192123-bdee3d00-5461-11eb-89f6-880d327b33dc.png)
